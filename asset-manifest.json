@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/chocobo-breeding-calculator/static/css/main.15987951.css",
+    "main.js": "/chocobo-breeding-calculator/static/js/main.eeca2830.js",
+    "static/js/453.b67d3ffa.chunk.js": "/chocobo-breeding-calculator/static/js/453.b67d3ffa.chunk.js",
+    "index.html": "/chocobo-breeding-calculator/index.html",
+    "main.15987951.css.map": "/chocobo-breeding-calculator/static/css/main.15987951.css.map",
+    "main.eeca2830.js.map": "/chocobo-breeding-calculator/static/js/main.eeca2830.js.map",
+    "453.b67d3ffa.chunk.js.map": "/chocobo-breeding-calculator/static/js/453.b67d3ffa.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.15987951.css",
+    "static/js/main.eeca2830.js"
+  ]
+}
